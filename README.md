@@ -6,6 +6,12 @@
 * Tulisiko kurssilla olla luentoja? Niitä toivotaan mutta käytännössä harva käy luennoilla
 * Paranna tiedotusta siitä, miten kurssille ilmoittaudutaan, milloin suoritukset tulevat ja mistä suorituksen pystyy näkemään (Opintopolusta)
 * Paranna tiedotusta siitä, miten palautesysteemi toimii ja mitä käy jos ei saa linkkiä palautteen antamiseen
+* Moni käyttää tekoälyä ja tätä on vaikeaa valvoa, tulisiko kurssin formaattia muuttaa?
+* Vanhan kurssikirjan voisi linkittää, samoin muuta lisämateriaalia
+* Kurssia pidetään (liian?) vaikeana ja työläänä, toisaalta viikon alkupään tehtävät voivat olla liian helppoja
+  - Kurssin saa (liian?) helposti läpi mutta korkeampia arvosanoja on (liian?) vaikeaa saada
+  - Liian jyrkkä kasvu tehtävien vaikeudessa?
+* "Esitietovaatimuksista voisi mielestäni hyvin jättää pois JYM-kurssin (ja melko lailla kaikki muutkin matematiikan kurssit) – ei niitä oikeastaan tarvitse tätä kurssia varten." onko näin?
 
 ## Materiaali
 
@@ -14,6 +20,7 @@
 * Tuo esille, miten lyhimpiä polkuja etsitään suuntaamattomassa verkossa (nyt esimerkeissä vain suunnattuja)
 * Tuo esille, että verkossa voi olla useita samanlaisia kaaria sekä kaari solmusta itseensä
 * Pythonissa `set` ei säilytä alkioita suuruusjärjestyksessä vaikka voi näyttää siltä, esimerkki tästä materiaaliin
+* Myös materiaalisivulla voisi olla saatavilla dark mode
 
 ## Tehtävät
 
