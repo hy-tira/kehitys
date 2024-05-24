@@ -44,3 +44,18 @@
   - Miten tämän voisi tarkastaa luotettavasti?
 * Jos funktion parametri on lista tms. tietorakenne, tulisi varmistaa, että funktio ei muuta tietorakennetta
 * Malliratkaisuja tulisi parantaa niin, että niitä olisi helpompaa ymmärtää (paremmin nimetyt muuttujat, kommentit, ei turhia trikkejä)
+
+## Palautetta II-osasta keväältä 2024
+
+* Luku 9, teoria: Olisi hyvä selittää, mitä '' tarkoittaa tässä yhteydessä: return count_sequences(n - 1, d + 1) +
+count_sequences(n - 1, d - 1)
+* Luku 11, teoria: Pitäisikö "Liukuva ikkuna" esimerkissä lukea selityksessä "Lisäksi jos havaitaan, että keon pienin alkio on jäänyt listan ulkopuolelle, se poistetaan keosta", niin sanan 'listan' sijasta 'osalistan' (eli se ikkuna)?
+* Tehtävä 10-8 "Kurssi": Pitäisikö tehtävän annossa mainita, että kaikki kurssit ovat saatavilla/tehtävissä välittömästi? Eli ei samaan tapaan kuten Tira-kurssilla 2x8 kerrallaan ja viikon päästä seuraavat 2x8.
+* Tehtävä 11-8 "Pienet summat": Tehtävänantoa pitää selventää huomattavasti, esim. pitäisi laittaa suoraan esimerkkinä vastaukset n arvoilla 1-5. Discordissakin vastaukset vinkkeihin sarjan alusta vaihtelevat, niin on vaikea päätellä mikä on oikea alku.
+* Tehtävä 12-2 "Puun korkeus": Jos tehtävänannossa funktio on muotoa "def height(self):" ja mallivastauksessa "def height(self, node=None):", niin se on aika hämäävää ja herkästi laittaa yrittämään tehtäviä siten, että funktion parametriosasto ei muutu koska tulee tunne ettei se mene testeistä läpi jos sitä muuttaa.
+* Tehtävä 12-4 "Edellinen ja seuraava": Tässä pitäisi selventää, että viitataan "suurin pienempi" ja "pienin suurempi" konsepteihin.
+* Tehtävä 12-7 "Monta alkiota": Pitäisi selventää, että myös luokkaa Node saa muuttaa! Nyt teksti on: "Muuta kurssimateriaalin luokkaa TreeSet niin, että sama alkio voi toistua monta kertaa. Tämä vaatii muutoksia materiaalin metodeihin." Mainitaan kyllä, että metodeihin pitää koskea, mutta ei muihin luokkiin. Tästä saa vaikutelman, että testit feilaavat jos Node-luokkaan koskee, koska annetussa koodi-rungossa ei myöskään näy Node-luokkaa. Lisäksi, mallivastauksen metodit "add" ja "contains" on toteutettu rekursiolla kun materiaalissa while-loopissa, mikä sotkee ajatuksia kun kerrotaan että "idea on vain muuttaa" Node-luokkaa ja kaikki metodit näyttävätkin eriltä kuin materiaalissa.
+* Tehtävä 14-8 "Veden mittaus": Pitäisikö mainita, että a, b ja c ovat kokonaislukuja?
+* Luku 16, teoria: "Edmonds-Karp" -algoritmin yhteydessä O(nm) ei ole mainittu mikä "n" on, oletan että solmujen määrä?
+* Luku 16, teoria: "Maksimiparitus", selityksessä voisi mainita että tarkoitus on löytää maksimimäärä solmupareja. Tämä tulee kyllä ilmi tanssiaiset-esimerkistä, mutta sitä edeltävä selitys "Verkon maksimiparitus (maximum matching) on suurin mahdollinen kaarten joukko, jossa pätee, että jokainen solmu kuuluu enintään yhteen kaareen" on melko abstrakti.
+#
