@@ -12,6 +12,7 @@
   - Kurssin saa (liian?) helposti läpi mutta korkeampia arvosanoja on (liian?) vaikeaa saada
   - Liian jyrkkä kasvu tehtävien vaikeudessa?
 * "Esitietovaatimuksista voisi mielestäni hyvin jättää pois JYM-kurssin (ja melko lailla kaikki muutkin matematiikan kurssit) – ei niitä oikeastaan tarvitse tätä kurssia varten." onko näin?
+* CSES saattaa näyttää "unexpected error" kun koodin suoritus ylittää aikarajan -> lisää timeout johonkin?
 
 ## Materiaali
 
