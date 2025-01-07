@@ -3,7 +3,6 @@
 ## Yleiset asiat
 
 * Kurssille tulisi lisätä videoita, niitä on toivottu paljon
-* Tulisiko kurssilla olla luentoja? Niitä toivotaan mutta käytännössä harva käy luennoilla
 * Paranna tiedotusta siitä, miten kurssille ilmoittaudutaan, milloin suoritukset tulevat ja mistä suorituksen pystyy näkemään (Opintopolusta)
 * Paranna tiedotusta siitä, miten palautesysteemi toimii ja mitä käy jos ei saa linkkiä palautteen antamiseen
 * Moni käyttää tekoälyä ja tätä on vaikeaa valvoa, tulisiko kurssin formaattia muuttaa?
@@ -12,7 +11,6 @@
   - Kurssin saa (liian?) helposti läpi mutta korkeampia arvosanoja on (liian?) vaikeaa saada
   - Liian jyrkkä kasvu tehtävien vaikeudessa?
 * "Esitietovaatimuksista voisi mielestäni hyvin jättää pois JYM-kurssin (ja melko lailla kaikki muutkin matematiikan kurssit) – ei niitä oikeastaan tarvitse tätä kurssia varten." onko näin?
-* CSES saattaa näyttää "unexpected error" kun koodin suoritus ylittää aikarajan -> lisää timeout johonkin?
 
 ## Materiaali
 
@@ -40,7 +38,6 @@
 * Binäärihakupuutehtävät mahdollista saada testeistä läpi koodilla jossa ei ole binääripuuta -> muuta testejä niin ettei tämä ole mahdollista (miten?)
 * Tehtävä “Kaikki puut” (3103): monella googletettu (?) kaava jota ei ymmärretä
 * Tehtävä “Tanssiaiset” (3207): epäselvää että molemmilla kampuksilla on n opiskelijaa. Voisi olla kuva, joka selventää tilannetta esimerkissä.
-* Jos funktion palautusarvon tyyppi on väärä mutta vastaus muuten oikein, tämä tulisi näyttää selvästi
 * Jos funktion pitäisi palauttaa tietorakenne, mutta on palautettu merkkijono, joka näyttää samalta kuin kyseisen tietorakenteen merkkijonoesitys, tämä tulisi näyttää selvästi
 * Jos testattavalla funktiolla tai luokalla on sivuvaikutuksia, joiden johdosta se toimii oikein ensimmäisellä kutsulla mutta ei muiden testien jälkeen, tämä tulisi näyttää selvästi
   - Miten tämän voisi tarkastaa luotettavasti?
