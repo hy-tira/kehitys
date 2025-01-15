@@ -3,7 +3,6 @@
 ## Yleiset asiat
 
 * Kurssille tulisi lisätä videoita, niitä on toivottu paljon
-* Paranna tiedotusta siitä, miten kurssille ilmoittaudutaan, milloin suoritukset tulevat ja mistä suorituksen pystyy näkemään (Opintopolusta)
 * Paranna tiedotusta siitä, miten palautesysteemi toimii ja mitä käy jos ei saa linkkiä palautteen antamiseen
 * Moni käyttää tekoälyä ja tätä on vaikeaa valvoa, tulisiko kurssin formaattia muuttaa?
 * Kurssia pidetään (liian?) vaikeana ja työläänä, toisaalta viikon alkupään tehtävät voivat olla liian helppoja
