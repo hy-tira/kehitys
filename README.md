@@ -31,6 +31,7 @@
 * Tehtävä “Kaikki puut” (3103): monella googletettu (?) kaava jota ei ymmärretä
 * Tehtävä “Tanssiaiset” (3207): epäselvää että molemmilla kampuksilla on n opiskelijaa. Voisi olla kuva, joka selventää tilannetta esimerkissä.
 * Tehtävä “Robotti“ (3441): epäselvää mistä kyse tehtävässä, kuvitus ja/tai lyhempi testisyöte voisi auttaa
+* Tehtävä “Esiintymismäärät“ (3483): pääsee läpi koodilla, joka käy läpi `count`-kutsussa kaikki eri esiintymismäärät
 * Jos testattavalla funktiolla tai luokalla on sivuvaikutuksia, joiden johdosta se toimii oikein ensimmäisellä kutsulla mutta ei muiden testien jälkeen, tämä tulisi näyttää selvästi
   - Miten tämän voisi tarkastaa luotettavasti?
 * Jos funktion parametri on lista tms. tietorakenne, tulisi varmistaa, että funktio ei muuta tietorakennetta
@@ -48,4 +49,4 @@ count_sequences(n - 1, d - 1)
 * Tehtävä 14-8 "Veden mittaus": Pitäisikö mainita, että a, b ja c ovat kokonaislukuja?
 * Luku 16, teoria: "Edmonds-Karp" -algoritmin yhteydessä O(nm) ei ole mainittu mikä "n" on, oletan että solmujen määrä?
 * Luku 16, teoria: "Maksimiparitus", selityksessä voisi mainita että tarkoitus on löytää maksimimäärä solmupareja. Tämä tulee kyllä ilmi tanssiaiset-esimerkistä, mutta sitä edeltävä selitys "Verkon maksimiparitus (maximum matching) on suurin mahdollinen kaarten joukko, jossa pätee, että jokainen solmu kuuluu enintään yhteen kaareen" on melko abstrakti.
-#
+
