@@ -18,6 +18,7 @@
 * Tuo esille, että verkossa voi olla useita samanlaisia kaaria sekä kaari solmusta itseensä
 * Pythonissa `set` ei säilytä alkioita suuruusjärjestyksessä vaikka voi näyttää siltä, esimerkki tästä materiaaliin
 * Maininta `heapq.heapify`-funktiosta. Tällöin esim. tehtävä ["Pienimmät alkiot"](https://cses.fi/tira24k/task/2539) voisi korostaa paremmin heapsortin ideaa
+* Historiallisia (?) aiheita: linkitetty lista, pikajärjestäminen, binäärihaku, binäärihakupuu
 
 ## Tehtävät
 
