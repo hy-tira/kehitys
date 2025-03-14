@@ -40,6 +40,7 @@
   - Tämä tarkastus tulisi tehdä kaikkiin tehtäviin
 * Tuo esille, että käytettävissä on Pythonin standardikirjasto mutta ei esim Numpy
 * Tuo esille CPythonin ja PyPyn versiot ja näiden erot
+* Erottele aikarajan ylityksessä yksittäisen testin aikarajan ylitys ja kokonaisuuden aikarajan ylitys
 
 ## Palautetta II-osasta keväältä 2024
 
