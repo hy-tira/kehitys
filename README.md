@@ -32,10 +32,14 @@
 * Tehtävä “Kaikki puut” (3103): monella googletettu (?) kaava jota ei ymmärretä
 * Tehtävä “Tanssiaiset” (3207): epäselvää että molemmilla kampuksilla on n opiskelijaa. Voisi olla kuva, joka selventää tilannetta esimerkissä.
 * Tehtävä “Robotti“ (3441): epäselvää mistä kyse tehtävässä, kuvitus ja/tai lyhempi testisyöte voisi auttaa
+* Tehtävä “Laskut“ (3458): tietyt ratkaisut eivät mene läpi PyPyllä mutta menevät läpi CPythonilla
 * Tehtävä “Esiintymismäärät“ (3483): pääsee läpi koodilla, joka käy läpi `count`-kutsussa kaikki eri esiintymismäärät
 * Jos testattavalla funktiolla tai luokalla on sivuvaikutuksia, joiden johdosta se toimii oikein ensimmäisellä kutsulla mutta ei muiden testien jälkeen, tämä tulisi näyttää selvästi
   - Miten tämän voisi tarkastaa luotettavasti?
 * Jos funktion parametri on lista tms. tietorakenne, tulisi varmistaa, että funktio ei muuta tietorakennetta
+  - Tämä tarkastus tulisi tehdä kaikkiin tehtäviin
+* Tuo esille, että käytettävissä on Pythonin standardikirjasto mutta ei esim Numpy
+* Tuo esille CPythonin ja PyPyn versiot ja näiden erot
 
 ## Palautetta II-osasta keväältä 2024
 
