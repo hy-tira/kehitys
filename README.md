@@ -19,6 +19,7 @@
 * Pythonissa `set` ei säilytä alkioita suuruusjärjestyksessä vaikka voi näyttää siltä, esimerkki tästä materiaaliin
 * Maininta `heapq.heapify`-funktiosta. Tällöin esim. tehtävä ["Pienimmät alkiot"](https://cses.fi/tira24k/task/2539) voisi korostaa paremmin heapsortin ideaa
 * Historiallisia (?) aiheita: linkitetty lista, pikajärjestäminen, binäärihaku, binäärihakupuu
+* Esittele materiaalissa hyvin: `enumerate`, `zip`, `defaultdict`, listakooste, `pprint` (?), mieti muutenkin
 
 ## Tehtävät
 
