@@ -19,7 +19,7 @@
 * Pythonissa `set` ei säilytä alkioita suuruusjärjestyksessä vaikka voi näyttää siltä, esimerkki tästä materiaaliin
 * Maininta `heapq.heapify`-funktiosta. Tällöin esim. tehtävä ["Pienimmät alkiot"](https://cses.fi/tira24k/task/2539) voisi korostaa paremmin heapsortin ideaa
 * Historiallisia (?) aiheita: linkitetty lista, pikajärjestäminen, binäärihaku, binäärihakupuu
-* Esittele materiaalissa hyvin: `enumerate`, `zip`, `defaultdict`, listakooste, `pprint` (?), mieti muutenkin
+* Esittele materiaalissa hyvin: `enumerate`, `zip`, `defaultdict`, listakooste, `for _ in`, `pprint` (?), mieti muutenkin
 * Tuo paremmin esille, mitä $O$-merkintä tarkoittaa ja että sitä voi käyttää muutenkin kuin aikavaativuuksissa
 
 ## Tehtävät
@@ -32,7 +32,6 @@
 * Paranna tiedotusta siitä, että joka viikko tulee ratkaista vähintään x tehtävää
 * Binäärihakupuutehtävät mahdollista saada testeistä läpi koodilla jossa ei ole binääripuuta -> muuta testejä niin ettei tämä ole mahdollista (miten?)
 * Tehtävä “Kaikki puut” (3103): monella googletettu (?) kaava jota ei ymmärretä
-* Tehtävä “Tanssiaiset” (3207): epäselvää että molemmilla kampuksilla on n opiskelijaa. Voisi olla kuva, joka selventää tilannetta esimerkissä.
 * Tehtävä “Robotti“ (3441): epäselvää mistä kyse tehtävässä, kuvitus ja/tai lyhempi testisyöte voisi auttaa
 * Tehtävä “Laskut“ (3458): tietyt ratkaisut eivät mene läpi PyPyllä mutta menevät läpi CPythonilla
 * Tehtävä “Esiintymismäärät“ (3483): pääsee läpi koodilla, joka käy läpi `count`-kutsussa kaikki eri esiintymismäärät
