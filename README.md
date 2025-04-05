@@ -21,6 +21,7 @@
 * Historiallisia (?) aiheita: linkitetty lista, pikajärjestäminen, binäärihaku, binäärihakupuu
 * Esittele materiaalissa hyvin: `enumerate`, `zip`, `defaultdict`, listakooste, `for _ in`, `pprint` (?), mieti muutenkin
 * Tuo paremmin esille, mitä $O$-merkintä tarkoittaa ja että sitä voi käyttää muutenkin kuin aikavaativuuksissa
+* Miten laskea tarkasti suurilla kokonaisluvuilla (esim. `/` on epätarkka mutta `//` on tarkka)
 
 ## Tehtävät
 
