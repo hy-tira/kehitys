@@ -9,6 +9,7 @@
   - Kurssin saa (liian?) helposti läpi mutta korkeampia arvosanoja on (liian?) vaikeaa saada
   - Liian jyrkkä kasvu tehtävien vaikeudessa?
 * "Esitietovaatimuksista voisi mielestäni hyvin jättää pois JYM-kurssin (ja melko lailla kaikki muutkin matematiikan kurssit) – ei niitä oikeastaan tarvitse tätä kurssia varten." onko näin?
+* Tuo esille, että tekoälyä saa käyttää muuten kuin ratkaisujen tuottamiseen
 
 ## Materiaali
 
@@ -43,6 +44,7 @@
 * Tuo esille, että käytettävissä on Pythonin standardikirjasto mutta ei esim Numpy
 * Tuo esille CPythonin ja PyPyn versiot ja näiden erot
 * Erottele aikarajan ylityksessä yksittäisen testin aikarajan ylitys ja kokonaisuuden aikarajan ylitys
+* Muuta tehtäväpohjia niin ettei ole syntaksivirheitä (esim. `pass`-komennot)
 
 ## Palautetta II-osasta keväältä 2024
 
