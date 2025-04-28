@@ -38,6 +38,8 @@
 * Tehtävä “Robotti“ (3441): epäselvää mistä kyse tehtävässä, kuvitus ja/tai lyhempi testisyöte voisi auttaa
 * Tehtävä “Laskut“ (3458): tietyt ratkaisut eivät mene läpi PyPyllä mutta menevät läpi CPythonilla
 * Tehtävä “Esiintymismäärät“ (3483): pääsee läpi koodilla, joka käy läpi `count`-kutsussa kaikki eri esiintymismäärät
+* Tehtävä “Läpikäynti“ (3544): pääsee läpi koodilla, joka käyttää set-rakennetta (12744528) 
+* Tehtävä “Seinät ja lattiat“ (3561): pääsee läpi hitaalla koodilla
 * Jos testattavalla funktiolla tai luokalla on sivuvaikutuksia, joiden johdosta se toimii oikein ensimmäisellä kutsulla mutta ei muiden testien jälkeen, tämä tulisi näyttää selvästi
   - Miten tämän voisi tarkastaa luotettavasti?
 * Jos funktion parametri on lista tms. tietorakenne, tulisi varmistaa, että funktio ei muuta tietorakennetta
