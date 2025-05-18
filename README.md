@@ -49,6 +49,8 @@
 * Tuo esille CPythonin ja PyPyn versiot ja näiden erot
 * Erottele aikarajan ylityksessä yksittäisen testin aikarajan ylitys ja kokonaisuuden aikarajan ylitys
 * Muuta tehtäväpohjia niin ettei ole syntaksivirheitä (esim. `pass`-komennot)
+* Ylimääräinen viikko tehtäviä, joissa ei kerrota mihin aiheeseen liittyy?
+* Kurssilla ei tulisi olla kahta tehtävää, joilla on samanniminen kooditiedosto
 
 ## Palautetta II-osasta keväältä 2024
 
